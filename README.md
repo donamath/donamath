@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Dona Mathew. I am currently a junior majoring in Computer Science and Engineering. I love to work with Python and C.
+I am Dona Mathew. I am currently a senior majoring in Computer Science and Engineering. I love to work with Python and C.
 
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Web Development
